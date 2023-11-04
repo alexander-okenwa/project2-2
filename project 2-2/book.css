@@ -1,0 +1,6 @@
+/* the styles for the website */
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif
+    font-size: 100%; max-width: 100%; background-color: red; border: 1px solid black;
+    margin: 15px auto; 
+}
